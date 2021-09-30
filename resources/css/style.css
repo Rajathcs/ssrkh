@@ -1,0 +1,45 @@
+.header{
+    background-color: darkslategrey;
+    text-align: center;
+  }
+  .about-site{
+    font-size: 20px;
+    opacity: 1;
+  }
+  .title{
+    font-weight: bold;
+  }
+  h1{
+    color: Azure;
+  }
+  body{
+    font-family: Georgia;
+  }
+  img{
+      height: 200px;
+      width: 200px;
+  }
+  
+  a{
+      color:blanchedalmond;
+  }
+  h3{
+      font-style: oblique;
+      font-weight: bold;
+      color: darkslategrey;
+  }
+  h4{
+    font-style: oblique;
+    font-weight: bold;
+    color: darkred;
+  }
+  ol{
+      opacity: 1;
+      font-weight: normal;
+      color: coral;
+  }
+  .footer{
+    background-color: darkslategrey;
+    text-align: center;
+  }
+  
